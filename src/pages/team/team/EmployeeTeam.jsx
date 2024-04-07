@@ -90,7 +90,7 @@ const EmployeeTeam = () => {
                 <h1>Team</h1>
               </div>
               <div className="row">
-                <CountsCard
+                {/* <CountsCard
                   title="Total Employee"
                   icon="fa-user"
                   count={team.information.employee}
@@ -104,7 +104,7 @@ const EmployeeTeam = () => {
                   title="Total Employee"
                   icon="fa-user"
                   count={team.information.employee}
-                />
+                /> */}
                 <CountsCard
                   title="Total Employee"
                   icon="fa-user"
@@ -117,7 +117,7 @@ const EmployeeTeam = () => {
                   {/* <div className="col-md-3 ">
                     <img className='img-fluid img-thumbnail' src={team.image} alt="" />
                   </div> */}
-                  <div className="col-md-9">
+                  <div className="col-md-11">
                     <table className="table">
                       <tbody>
                         <tr>

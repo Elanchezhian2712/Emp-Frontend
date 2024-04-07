@@ -65,7 +65,7 @@ const UserTeams = () => {
                        user?.team?.id?
                        ( <tr>
 
-                           <td>#</td>
+                           <td>1</td>
                            {/* <td><figure className="avatar"> <img src={userteam.image} alt={userteam.name}/> </figure></td> */}
                            <td>{userteam.name}</td>
                            <td>

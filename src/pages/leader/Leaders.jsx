@@ -41,6 +41,7 @@ const Leaders = () =>
                             <th>Status</th>
                             <th>Leading Team</th>
                             <th>Action</th>
+                            <th>Remove</th>
                           </tr>
                         </thead>
                         <tbody>
