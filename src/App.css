@@ -1,0 +1,28 @@
+body {
+  background-image: linear-gradient(
+    to right,
+    #080434 0%,
+    #200b70 50%,
+    #080434 100%
+  );
+  animation: gradientShift 1s infinite linear;
+}
+
+@keyframes gradientShift {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}
+
+.modal-social {
+  background-color: red !important;
+  z-index: 2000;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  justify-items: center;
+}
