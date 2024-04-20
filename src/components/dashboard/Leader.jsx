@@ -17,10 +17,10 @@ const Leader = () => {
 
             <div className="card">
                   <div className="card-body row">
-                    <div className="col-md-3 ">
+                    <div className="col-md-1 ">
                         {/* <img className='img-fluid img-thumbnail' src={user.image} alt="" /> */}
                     </div>
-                    <div className="col-md-9">
+                    <div className="col-md-11">
                        <table className='table'>
                             <tbody>
                                 <tr>

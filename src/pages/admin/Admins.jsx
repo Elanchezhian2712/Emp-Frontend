@@ -41,8 +41,7 @@ const AdminsPage = () =>
                             <th>Mobile</th>
                             <th>Status</th>
                             <th>Action</th>
-                            <th>Remove</th>
-                          </tr>
+                            </tr>
                         </thead>
                         <tbody>
                         {
