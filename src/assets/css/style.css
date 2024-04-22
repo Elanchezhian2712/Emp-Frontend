@@ -781,8 +781,6 @@ select.form-control:not([size]):not([multiple]) {
   float: left;
   margin-left: 20px !important;
   align-items: center;
-  /* border-radius: 10px; */
-  /* filter: drop-shadow(10px 7px 10px #ff1d8d); */
 }
 @keyframes pulse {
   0% {

@@ -21,7 +21,7 @@ const RowEmployee = ({ index, data }) => {
   const showDialog = () => {
     swal({
       title: "Are you sure?",
-      text: `You want to remove!\n${data.name} \nfrom this team`,
+      text: `You want to remove!\n${data.name} \nfrom this Employee`,
       icon: "warning",
       buttons: true,
       dangerMode: true,

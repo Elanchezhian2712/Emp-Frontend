@@ -46,12 +46,15 @@ import SalaryView from "./components/Admin/Salary";
 // import './assets/css/asdfasdf';
 // import './assets/css/asdfasdf';
 
+
+
 const App = () => {
   const loading = useAutoLogin();
 
   return loading ? (
     <Loading />
   ) : (
+   
     <Switch>
       <EmployeeRoute exact path="/userTeams">
         <UserTeams />
@@ -143,6 +146,7 @@ const App = () => {
       <AdminRoute path="/leaders">
         <Leaders />
       </AdminRoute>
+      
     </Switch>
   );
 };
