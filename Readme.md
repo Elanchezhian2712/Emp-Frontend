@@ -72,59 +72,26 @@ The main motive of to build this application to manage the employee, teams, lead
 ## Flow Chart
 ![Flow Chart](./screenshots/Flow.png "Flow Chart")
 
-## Video
-[![Video](./screenshots/thumbnail.png)](https://youtu.be/jcdBcxDJ2x8)
-
-
 
 ## Screenshots
 
 ### Login
-![](/screenshots/1.png)
-![](/screenshots/2.png)
-![](/screenshots/3.png)
+![Uploading image.png…]()
+
 
 
 ### Admin
-![](/screenshots/Admin%20Panel/1.png)
-![](/screenshots/Admin%20Panel/2.png)
-![](/screenshots/Admin%20Panel/3.png)
-![](/screenshots/Admin%20Panel/4.png)
-![](/screenshots/Admin%20Panel/5.png)
-![](/screenshots/Admin%20Panel/6.png)
-![](/screenshots/Admin%20Panel/7.png)
-![](/screenshots/Admin%20Panel/8.png)
-![](/screenshots/Admin%20Panel/9.png)
-![](/screenshots/Admin%20Panel/10.png)
-![](/screenshots/Admin%20Panel/11.png)
-![](/screenshots/Admin%20Panel/12.png)
-![](/screenshots/Admin%20Panel/13.png)
-![](/screenshots/Admin%20Panel/14.png)
-![](/screenshots/Admin%20Panel/15.png)
-![](/screenshots/Admin%20Panel/16.png)
-![](/screenshots/Admin%20Panel/17.png)
-![](/screenshots/Admin%20Panel/18.png)
-![](/screenshots/Admin%20Panel/19.png)
+![image](https://github.com/Elanchezhian2712/Emp-Frontend/assets/122656808/8eb1f93f-f1f5-47aa-92bb-28b6de224653)
+![image](https://github.com/Elanchezhian2712/Emp-Frontend/assets/122656808/1f6ffb06-f821-4d70-8b18-5a6b04aebb08)
+![image](https://github.com/Elanchezhian2712/Emp-Frontend/assets/122656808/de4523cf-5f12-49e2-ab1a-0fe570452f9c)
+![image](https://github.com/Elanchezhian2712/Emp-Frontend/assets/122656808/1976f8cb-2b0b-4ae0-a10d-d20453ee858b)
+
+
 
 ### Employee
-![](/screenshots/Employee%20Panel/1.png)
-![](/screenshots/Employee%20Panel/2.png)
-![](/screenshots/Employee%20Panel/3.png)
-![](/screenshots/Employee%20Panel/4.png)
-![](/screenshots/Employee%20Panel/5.png)
-![](/screenshots/Employee%20Panel/6.png)
-![](/screenshots/Employee%20Panel/7.png)
-![](/screenshots/Employee%20Panel/8.png)
-![](/screenshots/Employee%20Panel/9.png)
+![Screenshot 2024-04-14 104140](https://github.com/Elanchezhian2712/Emp-Frontend/assets/122656808/c4792744-0d05-46d2-9ad8-1eac710cf8b5)
 
 
-## Installation
-
-Client Repository: https://github.com/deepak-singh5219/Easy-Employee
-
-Server Repository: https://github.com/deepak-singh5219/Easy-Employee-API
-
-Follow these steps to set up the Employee Management System on your local machine:
 
 ### Prerequisites
 
@@ -174,31 +141,7 @@ SMTP_REQUIRE_TLS=true
 SMTP_AUTH_USER=EMAIL
 SMTP_AUTH_PASS=PASSWORD
 ```
-### Admin object
 
-```
-{
-"_id":{"$oid":"64ca3376893ac9f719ea5c4d"},
-"name":"Admin",
-"email":"admin@admin.com",
-"username":"admin",
-"mobile":{"$numberDouble":"8840532578.0"},
-"password":"$2b$10$PENEG9O8u5.LZfZznEMQp.YomtW.Z7tFgW7yLPXq0XmU3.UcsFlhi",
-"type":"admin","status":"active",
-"image":"profile-1690973045739-766059788passport_photo.jpg",
-"address":"Lucknow",
-"createdAt":{"$date":{"$numberLong":"1690973046137"}},
-"updatedAt":{"$date":{"$numberLong":"1692765336607"}},
-"__v":{"$numberInt":"0"}
-}
-```
-
-### Admin Credentials
-
-```
-admin@admin.com
-12345678
-```
 
 At cleint application
 ```
