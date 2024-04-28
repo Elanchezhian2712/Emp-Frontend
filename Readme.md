@@ -76,7 +76,7 @@ The main motive of to build this application to manage the employee, teams, lead
 ## Screenshots
 
 ### Login
-![Uploading image.png…]()
+![image](https://github.com/Elanchezhian2712/Emp-Frontend/assets/122656808/1c56c406-ff76-43ec-9196-b127ed1d5f46)
 
 
 
