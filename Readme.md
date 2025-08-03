@@ -115,8 +115,6 @@ REACT_APP_BASE_URL=http://localhost:5500
 #### server
 
 ```bash
-git clone https://github.com/deepak-singh5219/Easy-Employee-API
-cd Easy-Employee-API
 npm install
 ```
 
