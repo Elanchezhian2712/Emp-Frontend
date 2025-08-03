@@ -105,8 +105,6 @@ Make sure you have the following installed:
 #### client
 
 ```bash
-git clone https://github.com/deepak-singh5219/Easy-Employee
-cd Easy-Employee
 npm install
 ```
 Make sure your environment variables are configured properly.
